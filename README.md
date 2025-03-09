@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Sitsope1971/Sitsope1971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sitsope1971/High Grade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
